@@ -122,4 +122,15 @@ button{
 input[type="text"]{ 
     outline: none;
 }
+
 /*Responsiveness*/
+@media (max-width: 2560px)and (min-width: 2551px){
+	.footer-foot{
+		margin-top: 28%;
+	}
+}
+@media (max-width: 2550px) and (min-width: 2550px){
+	.footer-foot{
+		margin-top: 25.6%;
+	}
+}
