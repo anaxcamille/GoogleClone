@@ -1,0 +1,124 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	display: flex;
+	margin-right: 40px;
+}
+li{
+	padding: 20px;
+}
+.nav-link{
+	text-decoration: none;
+	color: black;
+}
+.nav-bar{
+	width: 100%;
+	height: 40px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+.profile{
+	width: 30px;
+	height: 30px;
+	margin-top: 15px;
+	border-radius: 50px;
+}
+.googleapp{
+	width: 20px;
+	height: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.google{
+	display: block;
+	margin: 17vh 0px 40vh 82vh;
+}
+.img-google{
+	margin-bottom: 55px;
+}
+.search_icon{
+	float: left;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	margin: 20vh -50vh 0vh -63vh;
+}
+.voice_icon{
+	float: left;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	margin: 20vh -50vh 0vh 15vh;
+}
+.boxtext{
+	width: 85vh;
+	padding:10px;
+	margin-left: -65vh;
+	border-radius: 20px;
+	 border: 1px solid #d3d3d3;
+}
+.bttn{
+	margin-top: 5vh;
+}
+button{
+	font-size: 2vh;
+	border:none;
+	width: 20vh;
+	padding:12px;
+	margin-right: 10px;
+}
+.alinko{
+	text-decoration: none;
+	color: blue;
+}
+.demo{
+	margin-top: 5vh;
+	margin-left: 5vh;
+}
+.footer-foot{
+	width: 100%;
+	background-color: #ededed ;
+	margin-top: -18vh;
+}
+
+.section1,.section2{
+	width: 100%;
+   
+}
+.section1{
+	text-indent: 5vh;
+	padding:7px;
+}
+.section2{
+     text-indent: 5vh;
+	 border: 1px solid #d3d3d3;
+	 padding: 9px;
+}
+.footer-foot{
+	 border: 1px solid #d3d3d3;
+}
+.alink, .ph{
+	text-decoration: none;
+	color:#7a7a7a;
+	margin-right:20px;
+}
+.section3{
+	float: right;
+	margin-top: -5vh;
+	margin-right: 30px;
+}
+.alink:hover, .nav-link:hover{
+	text-decoration: underline;
+}
+.boxtext:hover{
+	box-shadow: 2px 2px 2px 2px #d3d3d3;
+}
+input[type="text"]{ 
+    outline: none;
+}
+/*Responsiveness*/
