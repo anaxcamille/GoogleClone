@@ -58,6 +58,7 @@ li{
 .boxtext{
 	width: 85vh;
 	padding:10px;
+	padding-left: 40px;
 	margin-left: -65vh;
 	border-radius: 20px;
 	 border: 1px solid #d3d3d3;
